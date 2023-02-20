@@ -1,6 +1,6 @@
 # juliettelasso.github.io
 
-<!DOCTYPE html>
+<!DOCTYPE html>![image](https://user-images.githubusercontent.com/57605283/220001155-3ca20f7f-f21c-43be-b9c7-d765d3243c32.png)
 <html>
 <head>
 <style>
@@ -15,4 +15,4 @@ p    {color: blue;}
 <p> El Sistema de Posicionamiento Global (GPS</p>
 </body>
 </html>
-![image](https://user-images.githubusercontent.com/57605283/219999780-17aa9b2f-9b2a-4f87-b9d3-c960737a11bd.png)
+
