@@ -1,4 +1,18 @@
 # juliettelasso.github.io
 
-<!DOCTYPE html><html><head>  <link rel="stylesheet" href="styles.css"></head><body><h1>Que es GPS</h1><p> El Sistema de Posicionamiento Global (GPS) es un servicio propiedad de los EE. UU. que proporciona a los usuarios información sobre posicionamiento, navegación y cronometría.</p></body></html>
-![image](https://user-images.githubusercontent.com/57605283/219999592-8e933541-b1d4-40f3-9f74-5c4bfc1ddac1.png)
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: red;}
+p    {color: blue;}
+</style>
+</head>
+<body>
+
+<h1>Qué es el GPS</h1>
+<p> El Sistema de Posicionamiento Global (GPS</p>
+</body>
+</html>
+![image](https://user-images.githubusercontent.com/57605283/219999780-17aa9b2f-9b2a-4f87-b9d3-c960737a11bd.png)
